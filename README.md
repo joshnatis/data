@@ -55,6 +55,8 @@ The `holidays/` directory contains the zipped subdirectories `christmas/` (281),
 
 ## restaurants
 
+[restaurants.csv](https://github.com/joshnatis/data/blob/master/restaurants.csv)
+
 Location data about 5811 restaurants in New York. Slice of data:
 
 ```
@@ -75,6 +77,8 @@ Location data about 5811 restaurants in New York. Slice of data:
 
 ## foods
 
+[foods.csv](https://github.com/joshnatis/data/blob/master/foods.csv)
+
 2334 entries containing food names, calories (some bogus), healthiness, and a link to an image of the food. The data was gathered from [https://us.openfoodfacts.org/](https://us.openfoodfacts.org/). Probably the only useful thing about this is that you have images for each food item
 
 ```
@@ -91,6 +95,8 @@ Location data about 5811 restaurants in New York. Slice of data:
 
 ## emojis
 
+[emojis.py](https://github.com/joshnatis/data/blob/master/emojis.py)
+
 ```
 EMOJIS = {
 'grinning face': '😀 ',
@@ -102,9 +108,12 @@ EMOJIS = {
 'grinning face with sweat': '😅 ',
 'grinning squinting face': '😆 ',
 'winking face': '😉 ',
+...
 ```
 
 ## colors
+
+[colors.csv](https://github.com/joshnatis/data/blob/master/colors.csv)
 
 ```
 +-------------------+---------------------+---------+-----+-----+-----+
